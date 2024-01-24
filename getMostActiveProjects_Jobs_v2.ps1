@@ -1,6 +1,6 @@
-$rd_host = "lseg-oss:4440/api/24"
+$rd_host = "ADD_YOUR_FQDN_HERE/api/24"
 $endpoint = "projects"
-$token = "SBEpxApTTwd5ikaHfpJ4sHnrUu7aPhSj"
+$token = "ADD_YOUR_TOKEN_HERE"
 
 $headers = @{
     "Accept" = "application/json"
